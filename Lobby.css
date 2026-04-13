@@ -1,0 +1,52 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-image: url('Imagens/alto_santo.jpg');
+    height: 95vh;
+}
+
+header{
+    background-color: rgb(20, 80, 160); 
+    height: 12%;
+    text-align: center;
+    vertical-align: center;
+}
+
+h1{
+    font-size: 4rem;
+    display: inline-block;
+    color: white;
+}
+
+nav{
+    background-color: rgb(65, 105, 225);
+    height: 4%;
+    margin: auto;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    font-size: 1.45rem;
+    width: 30%;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    height: 80%;
+}
+
+article{
+    display: inline-block;
+    background-color: white;
+    width: 70%;
+    height: 100%;
+}
+aside{
+    display: inline-block;
+} inline-block;
+}
